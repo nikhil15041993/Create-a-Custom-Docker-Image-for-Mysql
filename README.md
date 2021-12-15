@@ -36,3 +36,7 @@ services:
          - "3316:3306"        
 ```
 
+
+## STEP 4
+
+Use the command ``` docker exec -it <container name> /bin/bash ``` to get a bash shell in the container.
